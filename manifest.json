@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Founder Mode",
     "version": "1.0",
-    "description": "Replace LinkedIn and Twitter feeds with a Founder Mode message.",
+    "description": "Replace LinkedIn feed with a Founder Mode message to keep you focused.",
     "permissions": ["activeTab"],
     "icons": {
       "16": "icons/icon16.png",
